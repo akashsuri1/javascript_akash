@@ -16,7 +16,7 @@ console.log("33"-"22")
 console.log(typeof( "1"+"2"))
 console.log(1+"2")
 console.log("1"+2+2)
-console.log(typeof (1+2+"2"))
+console.log(1+2+"2")
 console.log(typeof(-true))
 console.log(+"")
 
@@ -30,3 +30,4 @@ let gameCounter=100
 let score= ++gameCounter + gameCounter++;
 console.log(gameCounter,score);
 // here the ans will be 202 , 102
+console.log(typeof (Number("akash")+2))
