@@ -20,3 +20,4 @@ console.log(undefined >=0 )
 console.log("2"==2)
 console.log(2==="2")
 // the strict does do the type conversion also check the types also
+
